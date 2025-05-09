@@ -8,6 +8,10 @@ https://music.apple.com/cn/artist/william-axter/1681535247?ls
 Spotify
 https://open.spotify.com/artist/6oEbmVrezlJvrh8tRBKbjL
 
+WilliamAxter Mail 
+
+Mail:williamaxter@foxmai.com
+
 # William.Axter 开放工程
 Open Project Files For All 
 
