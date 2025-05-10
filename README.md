@@ -10,7 +10,7 @@ https://open.spotify.com/artist/6oEbmVrezlJvrh8tRBKbjL
 
 WilliamAxter Mail 
 
-Mail:williamaxter@foxmai.com
+Mail:williamaxter@foxmail.com
 
 # William.Axter 开放工程
 Open Project Files For All 
